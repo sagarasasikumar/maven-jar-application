@@ -2,6 +2,7 @@
 
 
 mvn -B archetype:generate -DarchetypeGroupId=org.apache.maven.archetypes -DgroupId=com.mycompany.app -DartifactId=my-app
+
 Go Inside my-app folder
 Then do the following:
 git init
