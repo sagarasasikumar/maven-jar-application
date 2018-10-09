@@ -1,4 +1,7 @@
-# maven-jar-application
+**/target
+abc.log
+*.txt
+src/**/*.txt# maven-jar-application
 
 Command to run Maven:
 
@@ -17,3 +20,6 @@ Go Inside my-app folder, then do the following:
 5.git push origin master
 
 6.git commit -am "adding command to generate sample desktop app"
+
+
+Hello....!
